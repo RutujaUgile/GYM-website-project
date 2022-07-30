@@ -1,0 +1,120 @@
+   body {
+       font-family: 'Kdam Thmor Pro', sans-serif;
+       margin: 0px;
+       padding: 0px;
+       /* background: url('https://c4.wallpaperflare.com/wallpaper/206/268/839/pose-muscle-muscle-rod-press-hd-wallpaper-preview.jpg'); */
+       background-image:url('https://c4.wallpaperflare.com/wallpaper/206/268/839/pose-muscle-muscle-rod-press-hd-wallpaper-preview.jpg');
+       background-repeat: no-repeat;
+       background-size: 100% 100%;
+       color: white;
+
+   }
+
+   .left {
+       position: absolute;
+       left: 34px;
+       top: 20px;
+       display: inline-block;
+
+   }
+
+   .left img {
+       width: 100px;
+   }
+
+   .mid {
+       display: block;
+       width: 50%;
+       margin: 25px auto;
+   }
+
+   .right {
+       position: absolute;
+       right: 34px;
+       top: 20px;
+       display: inline-block;
+
+   }
+
+   .navbar {
+       display: inline-block;
+   }
+
+   .navbar li {
+       display: inline-block;
+       font-size: 30px;
+   }
+
+   .navbar li a {
+       color: rgb(243, 243, 60);
+       text-decoration: none;
+       padding: 34px 15px;
+   }
+
+   .navbar li a:hover,
+   .navbar li a.active {
+       text-decoration: underline;
+       color: rgb(167, 167, 9);
+   }
+
+   .btn {
+       font-family: 'Kdam Thmor Pro', sans-serif;
+       margin: 0px 6px;
+       background-color: black;
+       color: white;
+       padding: 4px 14px;
+       border: 2px solid grey;
+       border-radius: 10px;
+       font-size: 15px;
+       cursor: pointer;
+   }
+
+   .btn:hover {
+       background-color: rgb(96, 90, 90);
+   }
+
+   .container {
+       margin: 106px 10px;
+       padding: 75px;
+       width: 33%;
+       border-radius: 28px;
+   }
+
+   .form-group input {
+       font-family: 'Kdam Thmor Pro', sans-serif;
+       text-align: center;
+       display: block;
+       width: 530px;
+       padding: 1px;
+       margin: 10px auto;
+       font-size: 25px;
+       border: 2px solid grey;
+       border-radius: 5px;
+   }
+
+   .container h1 {
+       color: rgb(236 219 17);
+       text-decoration: underline;
+       text-align: center;
+   }
+
+   .container button {
+       background-color: aqua;
+       margin: 20px auto;
+       padding: 10px;
+       display: block;
+       width: 33%;
+   }
+
+   .container input {
+       margin: 0p;
+   }
+  .container2{
+    position: absolute;
+    top: 700px;
+  }
+   .container2 pre{
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+   }
+   
